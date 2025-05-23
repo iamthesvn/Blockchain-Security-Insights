@@ -1,6 +1,6 @@
 # Blockchain-Security-Insights
 
-Welcome to my blog repository, where I share in-depth posts on blockchain security, smart contract auditing, and related technical topics. These articles aim to provide insights, practical tips, and lessons learned from my work in the blockchain ecosystem.
+Welcome to my blog and audit notes repository, where I share in-depth posts on blockchain security, smart contract auditing, and related technical topics. These articles and notes aim to provide insights, practical tips, and lessons learned from my work in the blockchain ecosystem.
 
 ## Blog Posts
 
