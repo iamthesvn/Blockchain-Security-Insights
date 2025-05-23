@@ -1,0 +1,1 @@
+These notes are written to be as generic as possible, focusing on methodologies, tools, and general security principles rather than contest-specific details, making them accessible to anyone interested in blockchain security.
