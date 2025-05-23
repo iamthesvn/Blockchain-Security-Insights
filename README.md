@@ -1,2 +1,7 @@
 # Blockchain-Security-Insights
-A collection of technical blog posts exploring blockchain security, smart contract auditing, and related topics. Written by yours truly, sharing insights from security audits and blockchain development.
+
+Welcome to my blog repository, where I share in-depth posts on blockchain security, smart contract auditing, and related technical topics. These articles aim to provide insights, practical tips, and lessons learned from my work in the blockchain ecosystem.
+
+## Blog Posts
+
+- [Miniblog #1: Callbacks, Try-Catch, and 63/64 Rule](https://thesvn.hashnode.dev/miniblog-1-callbacks-trycatch-and-6364-rule-make-an-interesting-combo) - Exploring a unique combo of callbacks, try-catch, and the 63/64 rule in smart contracts.
