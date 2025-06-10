@@ -10,5 +10,7 @@ This directory contains my in-depth blog posts on blockchain security, written t
 
 ## Posts
 - [Miniblog #1: Callbacks, Try-Catch, and 63/64 Rule](https://thesvn.hashnode.dev/miniblog-1-callbacks-trycatch-and-6364-rule-make-an-interesting-combo) - Exploring a unique combo of callbacks, try-catch, and the 63/64 rule in smart contracts.
+- [Blockchain Mixers: Anonymity Gods or Money Laundering Outfits?](https://thesvn.hashnode.dev/blockchain-mixers-anonymity-gods-or-money-laundering-outfits) - A deep dive into blockchain mixers.
+
 
 More blogs coming soon!
